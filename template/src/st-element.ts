@@ -51,7 +51,7 @@ export class StElement extends LitElement {
           background-color: var(--main-bg-color); 
         }
       </style>
-      <div class="e-modal-container"></div>
+      <div class="e-modal-container">Eddd</div>
     `;
   }
 }
